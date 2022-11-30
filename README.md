@@ -6,7 +6,7 @@ I'm Junior Game Developer I'm Currently working on my Indie Game & leraning how 
 
 Graduated : Mahasarakham University Bachelor of Science Program Computer animation and game.
 
-![317207106_1333441734139837_3668903075097676129_n](https://user-images.githubusercontent.com/78841807/204843389-0acdc666-a28e-44ff-8d7f-358bcfe84d94.jpg)
+<img align ="right" alt="coding" width="400" scr= https://miro.medium.com/max/640/1*ZSVmWGcc1weENb0ShawWxw.gif>
 
 
 ## :heart: Get in touch
