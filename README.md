@@ -1,3 +1,4 @@
+![logo](https://raw.githubusercontent.com/Lane-Bot/image-readme/main/Resume_banner.png?token=GHSAT0AAAAAAB3QKF4N5DGNFXZJWE2FCJ5UY4HQRIQ)
 # Hi I'm Pannawat Yutthasilp,Welcome to my Github profile :blush:
 
 I'm Junior Game Developer I'm Currently working on my Indie Game & leraning how to make me better at coding
@@ -6,7 +7,7 @@ I'm Junior Game Developer I'm Currently working on my Indie Game & leraning how 
 
 Graduated : Mahasarakham University Bachelor of Science Program Computer animation and game.
 
-<img align ="right" alt="coding" width="400" scr= https://miro.medium.com/max/640/1*ZSVmWGcc1weENb0ShawWxw.gif>
+<img align="right" alt="Coding" width="500" src="https://media.tenor.com/Yzeh4Z4UQuAAAAAC/viciadoemcodar.gif">
 
 
 ## :heart: Get in touch
