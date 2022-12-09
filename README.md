@@ -22,4 +22,10 @@ Graduated : Mahasarakham University Bachelor of Science Program Computer animati
 // Icon Language and Tool
 
 ## ⭐ My Project VIDEO ⭐
-[![Project Thesis แอพ จำลองการขับรถยนต์ VR](https://raw.githubusercontent.com/Lane-Bot/image-readme/main/Untitled.png)](https://www.youtube.com/watch?v=lA1nYVT8w_8&t=4s)
+
+Driving Simulator VR on android Thesis Project
+
+https://user-images.githubusercontent.com/78841807/206756081-a87504fd-7198-4b17-865d-6aff519a19f6.mp4
+
+
+
