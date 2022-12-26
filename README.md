@@ -30,6 +30,10 @@ https://user-images.githubusercontent.com/78841807/206756081-a87504fd-7198-4b17-
 2.FPS GAME DEMO FOR TEST CODE
   
 https://user-images.githubusercontent.com/78841807/206917111-c4c3b584-aafb-4d6c-9578-ccae651d9619.mp4
+  
+3. 2D Platformer 
+  
+https://user-images.githubusercontent.com/78841807/209530455-7fa169f9-d9b6-4a8d-a858-febc8973af71.mp4
 
 
 
