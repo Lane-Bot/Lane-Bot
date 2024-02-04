@@ -39,13 +39,10 @@ https://user-images.githubusercontent.com/78841807/209530455-7fa169f9-d9b6-4a8d-
 
 ![image](https://github.com/Lane-Bot/Lane-Bot/assets/78841807/87d4d126-a91e-4ab8-a2d2-734e56882b45)
 
-(Android)
 
-https://play.google.com/store/apps/details?id=com.glory.ragnarok
+[![Android](https://github.com/Lane-Bot/Lane-Bot/assets/78841807/e2595868-34f0-474f-80bf-7fd6885d8de2)](https://play.google.com/store/apps/details?id=com.glory.ragnarok) [![iOS](https://github.com/Lane-Bot/Lane-Bot/assets/78841807/8340e68f-9a18-4c13-b068-7852157e31e7)](https://apps.apple.com/th/app/glory-of-ragnarok/id6449695630)
 
-(IOS)
 
-https://apps.apple.com/th/app/glory-of-ragnarok/id6449695630
 
 
 
