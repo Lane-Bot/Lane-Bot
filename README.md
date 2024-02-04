@@ -35,6 +35,14 @@ https://user-images.githubusercontent.com/78841807/206917111-c4c3b584-aafb-4d6c-
   
 https://user-images.githubusercontent.com/78841807/209530455-7fa169f9-d9b6-4a8d-a858-febc8973af71.mp4
 
+4. Glory of Ragnarok
+![image](https://github.com/Lane-Bot/Lane-Bot/assets/78841807/87d4d126-a91e-4ab8-a2d2-734e56882b45)
+(Android)
+https://play.google.com/store/apps/details?id=com.glory.ragnarok
+(IOS)
+https://apps.apple.com/th/app/glory-of-ragnarok/id6449695630
+
+
 
 
 
